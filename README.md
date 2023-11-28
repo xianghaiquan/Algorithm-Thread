@@ -5,7 +5,9 @@
 
 ## 数组
 
-### [交替打印数组](./Code/alternantPrintArray.cpp)
+### [交替打印数组1](./Code/alternantPrintArray.cpp)-不满足题意
+
+### [交替打印数组2](./Code/alternantPrintArray2.cpp)-满足题意
 
 ```
 // 有数组array = {0,1,2,3,4,5,6,7,8,9,10}, 请用2个线程依次读取该数组内容并打印出来。
